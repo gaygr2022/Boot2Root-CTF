@@ -1,14 +1,14 @@
 # Boot2Root-CTF
-Difficulty
+# Difficulty
 This exercise range is aimed at users with a beginner or intermediate level of pen testing and offensive security skills. There are five independent target machines in the scenario, and each machine has two flags that need to be found to complete each challenge.
 
-User
+# User
 Identify and exploit a vulnerability or misconfiguration to gain user-level access to the target host. Once you gain this level of access, a users.txt file contains the required flag. This file is typically found in the user's home drive or desktop, but each task will tell you where to locate this file.
 
-Root
+# Root
 Once you've gained initial access, you'll need to escalate your privileges to root or administrator level to fully compromise the host. Once you have this level of access, there'll be a root.txt file that contains the required flag. This will typially be found in the root user's home directory on Linux systems or the administrator's desktop for Windows systems, but make sure you check each task will tell you where to locate this file.
 
-Scope
+# Scope
 The following assets are deemed to be in scope for this assesment.
 
 Target	IP address	Hostname	Difficulty
